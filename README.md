@@ -1,1 +1,0 @@
-# Crop-disease-detection-app
